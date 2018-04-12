@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Gebruiker\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Gebruiker\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Gebruiker\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\MySql.Data.dll
+C:\Users\Gebruiker\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\MySql.Web.dll
+C:\Users\Gebruiker\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\MySql.Data.xml
+C:\Users\Gebruiker\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\MySql.Web.xml
+C:\Users\Gebruiker\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Gebruiker\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Gebruiker\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.Cache
+C:\Users\Gebruiker\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Gebruiker\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
